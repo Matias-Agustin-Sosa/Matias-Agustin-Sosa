@@ -28,5 +28,6 @@ Tambien tengo un poco de conocimiento en el lenguaje c++, pero un poco mas basic
 # Mis datos son los siguientes:
 
 Linkedin: https://www.linkedin.com/in/matias-agustin-sosa/
+
 Correo: matias.agustin.sosa.04@gmail.com
 
