@@ -1,7 +1,7 @@
 # ¡Hola! Mi nombre es Matías Sosa
 
 # ¿Quién soy?
-Soy Data Science con buen conocimiento en Python con librerias de Machine Learning como Scikit-Learn, y de Dockers para el manejo de Big Data.
+Soy Data Scientist con buen conocimiento en Python con librerias de Machine Learning como Scikit-Learn, y de Dockers para el manejo de Big Data.
 
 Parte de la cecundaria la ise en una escuela tecnica, me enpece a interesar en la electronica y programacion cuando tenia 15 años, a esa edad realize mi primer asercamiento con el lenguaje c++ de Arduino.
 Años mas tarde relize un curso llamado Bots que promocionava la univercidad de Cordova, esto me llevo a querer saber más, por lo que dos años despues me anote en Henry para aprender los conocimientos de un Data Science.
