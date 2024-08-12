@@ -3,27 +3,27 @@
 # ¿Quién soy?
 Soy Data Scientist con buen conocimiento en Python con librerias de Machine Learning como Scikit-Learn, y de Dockers para el manejo de Big Data.
 
-Parte de la cecundaria la ise en una escuela tecnica, me enpece a interesar en la electronica y programacion cuando tenia 15 años, a esa edad realize mi primer asercamiento con el lenguaje c++ de Arduino.
-Años mas tarde relize un curso llamado Bots que promocionava la univercidad de Cordova, esto me llevo a querer saber más, por lo que dos años despues me anote en Henry para aprender los conocimientos de un Data Science.
+Parte de la secundaria la hice en una escuela técnica, comenzó a interesarme la eléctronica y la programación cuando tenía 15 años. A esa edad tuve mi primer acercamiento al lenguaje c++ de Arduino.
+Años más tarde, realizé un curso llamado Bots sobre robótica que dictaba la Universidad Nacional de Córdoba. Esto me llevó a querer saber más, por lo que dos años después comencé en Henry la carrera de Data Science.
 
 # ¿Qué hago?
-Actualmente me encuentro haciendo proyectos para recolectar esperiencia y poder demostrar mis capacidades y talentos en el area de la programación, sobre todo en la parte de manejo de datos y Machine Learning.
+Actualmente me encuentro haciendo proyectos para adquirir experiencia y poder demostrar mis capacidades y talento en el área de la programación, sobre todo en la parte de manejo de datos en la nube y Machine Learning.
 
 # ¿A dónde me dirijo?
-Mi objetivo es hacer carrera en el hambito de la programación.
+Mi objetivo es desarrollarme profesionalmente en el ámbito de la programación.
 
-No solo me gusta la estavilidad y buenos sueldos que ofrece el sector. Realmente me gusta lo que hago y quisiera seguir aprendiendo y profecionalisandome en las mismas o nuevas herramientas y areas.
+Realmente me gusta lo que hago y quiero seguir aprendiendo y perfeccionándome.
 
 # ¿Qué tecnologías uso?
-El bootcamp de Henry me permitio adquirir conocimiento, profundisar y trabajar, en diferentes proyectos con las siguientes herramientas:
+El bootcamp de Henry me permitió adquirir conocimientos, profundizar y trabajar, en diferentes proyectos con las siguientes herramientas:
 
 - Python
 - Dockers
 - MySQL
 - Power Bi
 - Git Bash
-
-Tambien tengo un poco de conocimiento en el lenguaje c++, pero un poco mas basico.
+- Google Cloud
+- C++ (Conocimiento básico)
 
 # Mis datos son los siguientes:
 
