@@ -7,7 +7,7 @@ Parte de la secundaria la hice en una escuela técnica, comenzó a interesarme l
 Años más tarde, realizé un curso llamado Bots sobre robótica que dictaba la Universidad Nacional de Córdoba. Esto me llevó a querer saber más, por lo que dos años después comencé en Henry la carrera de Data Science.
 
 # 👨‍💻¿Qué hago?
-Actualmente me encuentro haciendo proyectos para adquirir experiencia y poder demostrar mis capacidades y talento en el área de la programación, sobre todo en la parte de manejo de datos en la nube y Machine Learning.
+Actualmente trabajo como Analista ETL realizando tareas de soporte operativo, mantenimiento y optimización de flujos de integración de datos en el área de Business Intelligence para DirecTV, garantizando la calidad, disponibilidad y consistencia de la información para la toma de decisiones estratégicas.
 
 # 🏁¿A dónde me dirijo?
 Mi objetivo es desarrollarme profesionalmente en el ámbito de la programación.
