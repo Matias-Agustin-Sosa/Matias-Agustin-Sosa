@@ -17,11 +17,11 @@ Realmente me gusta lo que hago y quiero seguir aprendiendo y perfeccionándome.
 # 🔹️¿Qué tecnologías uso?
 El bootcamp de Henry me permitió adquirir conocimientos, profundizar y trabajar, en diferentes proyectos con las siguientes herramientas:
 
-- 💻 Python
-- 🐋 Dockers
-- 🐬 MySQL
-- 📊 Power Bi
-- 🔧 Git Bash
+- 💻 Python | JavaScript | HTML | CSS | Tailwind
+- 🐋 Dockers 
+- 🛢 MySQL | SQL Oracle | Data Stage
+- 📊 Power Bi | Excel
+- 🔧 Git Bash | Linux
 - ☁️ Google Cloud
 - 🤖 C++ (Conocimiento básico)
 
